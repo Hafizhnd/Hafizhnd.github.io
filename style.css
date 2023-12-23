@@ -92,7 +92,7 @@ nav ul li a {
     text-align: center;
     height: 18.0625rem;
     color: #fff;
-    background-image: url(Images/Group\ 81.svg);
+    background-image: url(/Images/Group\ 81.svg);
     background-size: 100%;
 }
 
@@ -453,7 +453,7 @@ button{
         text-align: center;
         height: 12.0625rem;
         color: #fff;
-        background-image: url(Images/Group\ 81.svg);
+        background-image: url(/Images/Group\ 81.svg);
         background-size: 100%;
         background-repeat: no-repeat;
     }
@@ -705,7 +705,7 @@ button{
         text-align: center;
         height: 8.0625rem;
         color: #fff;
-        background-image: url(Images/Group\ 81.svg);
+        background-image: url(/Images/Group\ 81.svg);
         background-size: auto 8em;
         background-repeat: no-repeat;
     }
